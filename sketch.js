@@ -33,7 +33,7 @@ text('TEXT.',60, 340);
     textStyle(BOLD);
     textFont(fontA);
        
-textSize(60);
+textSize(30);
 text('THIS IS NOT A TEST.',60, 270); 
   
   
