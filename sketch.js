@@ -18,7 +18,7 @@ function draw() {
   background(0);
 
  
-textSize(30);
+textSize(60);
 text('TEXT.',60, 340); 
   
 
@@ -33,7 +33,7 @@ text('TEXT.',60, 340);
     textStyle(BOLD);
     textFont(fontA);
        
-textSize(10);
+textSize(30);
 text('THIS IS NOT A TEST.',60, 270); 
   
   
