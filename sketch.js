@@ -34,7 +34,7 @@ text('TEXT.',40, 340);
     textFont(fontA);
        
 textSize(30);
-text('THIS IS NOT A TEST.',40, 270); 
+text('THIS IS NOT A TEST',30, 270); 
   
   
    
