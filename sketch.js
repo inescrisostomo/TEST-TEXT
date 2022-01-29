@@ -19,7 +19,7 @@ function draw() {
 
  
 textSize(60);
-text('TEXT.',60, 340); 
+text('TEXT.',40, 340); 
   
 
 
@@ -34,7 +34,7 @@ text('TEXT.',60, 340);
     textFont(fontA);
        
 textSize(30);
-text('THIS IS NOT A TEST.',60, 270); 
+text('THIS IS NOT A TEST.',40, 270); 
   
   
    
@@ -55,7 +55,7 @@ text('THIS IS NOT A TEST.',60, 270);
     textStyle(BOLD)
      textFont(fontA);
       textSize(60);
-text('HACKED',60, 410); 
+text('HACKED',40, 410); 
 
   }
   else if(y < 0){
